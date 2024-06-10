@@ -1,0 +1,15 @@
+Instruções de uso do programa Temperatura na cidade
+
+1- Abra o programa "Temperatura na cidade.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2ª OBS: Caso não tenha as bibliotecas beautifulsoup e requests instaladas, abra o CMD (processador de comandos) e digite
+os seguintes comandos e aperte ENTER:
+pip install beautifulsoup4
+pip install requests
+
+2- Execute o arquivo "Temperatura na cidade.py".
+
+OBS: Para pesquisar o URL da página e encontrar a cidade que você deseja, entre no seguinte site:
+https://www.climatempo.com.br/previsao-do-tempo
+
